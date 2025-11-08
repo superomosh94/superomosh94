@@ -16,19 +16,44 @@
   <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
 </p>
 
-- 👀 Passionate software engineer specializing in Full Stack Development and Cloud Architecture 🚀
+## 🎯 Professional Profile
 
-- 🌱 Currently mastering advanced cloud technologies and microservices architecture ☁️
-
-- 💞️ Open to collaborating on innovative projects, open-source contributions, and tech innovations
-
-- ⚡ Fun fact: I can debug complex issues while brewing the perfect cup of coffee! ⚡
-
-- 🛠️ Advocate of clean code, scalable architecture, and continuous learning
-
-- 🎯 Goal: To create impactful, scalable solutions that solve real-world problems
+**Full Stack Engineer & Cloud Architect** with a passion for building scalable, secure digital solutions. Specializing in modern web technologies and cloud infrastructure to deliver robust applications that drive business growth and innovation.
 
 ---
+
+### 🔧 Core Competencies
+- **Full Stack Development:** End-to-end application development with modern frameworks
+- **Cloud Architecture:** Designing and implementing scalable cloud-native solutions
+- **API Design:** Creating robust, secure, and well-documented RESTful APIs
+- **System Architecture:** Microservices, serverless, and event-driven patterns
+
+### 🌱 Current Focus
+- Mastering advanced cloud technologies and microservices architecture
+- Exploring cutting-edge DevOps practices and containerization strategies
+- Enhancing cybersecurity measures in distributed systems
+
+### 🤝 Collaboration Interests
+- Innovative software projects with real-world impact
+- Open-source contributions and community development
+- Tech innovations in AI/ML integration and cloud computing
+- Cross-functional teams focused on scalable solutions
+
+### 💡 Professional Philosophy
+- Advocate for clean, maintainable code and scalable system design
+- Believer in continuous learning and knowledge sharing
+- Focus on creating solutions that solve genuine business challenges
+- Committed to security-first development practices
+
+### 🎯 Career Objectives
+- Architect and deliver impactful, enterprise-grade solutions
+- Bridge the gap between complex technical requirements and business value
+- Mentor emerging developers and contribute to tech community growth
+- Drive innovation through cutting-edge technology implementation
+
+---
+
+*"Transforming complex challenges into elegant technical solutions"*
 
 ## <div>  Visit My <a href="https://martin-navy.vercel.app/"> PORTFOLIO </a> </div>
 ## <div>  Visit My <a href="https://devvoxa.vercel.app/"> PERSONAL BRAND </a> </div>
@@ -36,6 +61,7 @@
 ---
 
  ## 📫 Connect With Me 🌐:
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/kus9ba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omondo94@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin omondo) -->
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/martin_mosoti) -->
@@ -54,7 +80,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,10 +90,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) -->
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -87,8 +114,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ### Other Technologies
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
+<!-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -99,7 +126,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<!-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
