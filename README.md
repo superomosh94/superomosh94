@@ -2,85 +2,120 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&center=true&vCenter=true&width=435&lines=Hello!+I'm+Martin;Full+Stack+Developer;Cloud+Architect;Welcome+to+my+profile;Open+for+collaboration)](https://git.io/typing-svg)
+<div align="center">
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Martin;Full+Stack+Developer;Cloud+Architect;Problem+Solver;Welcome+to+my+journey)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="80%">
+</div>
 
 <h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;">
-  🚀 Building <span style="color:#00bcd4;">Digital Solutions</span> That Scale 🌟
+  🚀 Crafting <span style="color:#00bcd4;">Digital Experiences</span> That Inspire 🌟
 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="80%">
+</div>
 
-## 🎯 Professional Profile
+## 💫 My Story & Passion
 
-**Full Stack Engineer & Cloud Architect** with a passion for building scalable, secure digital solutions. Specializing in modern web technologies and cloud infrastructure to deliver robust applications that drive business growth and innovation.
+> "I don't just write code – I craft digital experiences that touch lives and transform businesses. Every line of code carries a story, every architecture decision holds a purpose, and every deployed application represents a dream realized."
+
+### 🌟 Why I Do What I Do
+
+I believe technology should **feel magical** – seamless, intuitive, and empowering. That moment when a user interacts with something I've built and their eyes light up with that "wow" feeling? That's my fuel. That's why I pour my heart into every project, whether it's a simple landing page or a complex cloud infrastructure.
+
+### 🎯 My Mission
+
+To bridge the gap between **vision and reality**, transforming abstract ideas into tangible digital solutions that not only function flawlessly but also delight users and drive meaningful impact. I'm here to be the technical partner who understands your dreams and has the skills to bring them to life.
+
+### ❤️ What Drives Me
+
+- **Creating solutions that matter** – not just code, but experiences that solve real problems
+- **The thrill of innovation** – pushing boundaries and exploring what's possible
+- **Empowering businesses** through technology that scales and adapts
+- **Building relationships** – because great software starts with understanding people
+- **Continuous growth** – staying at the forefront of technology to serve you better
+
+### 🛠️ My Approach
+
+I blend **technical excellence** with **creative problem-solving**, ensuring that every solution is not just technically sound but also strategically aligned with your goals. I'm not just building for today – I'm architecting for tomorrow.
 
 ---
+
+## 🎯 Professional Excellence
 
 ### 🔧 Core Competencies
-- **Full Stack Development:** End-to-end application development with modern frameworks
-- **Cloud Architecture:** Designing and implementing scalable cloud-native solutions
-- **API Design:** Creating robust, secure, and well-documented RESTful APIs
-- **System Architecture:** Microservices, serverless, and event-driven patterns
+- **Full Stack Mastery:** Crafting beautiful frontends with robust backends that work in perfect harmony
+- **Cloud Architecture:** Designing scalable, resilient infrastructures that grow with your business
+- **API Craftsmanship:** Building secure, efficient bridges between systems and services
+- **Strategic Thinking:** Aligning technical solutions with business objectives for maximum impact
 
-### 🌱 Current Focus
-- Mastering advanced cloud technologies and microservices architecture
-- Exploring cutting-edge DevOps practices and containerization strategies
-- Enhancing cybersecurity measures in distributed systems
+### 🌱 Current Evolution
+- Mastering cloud-native architectures and microservices patterns
+- Exploring AI/ML integration to create smarter, more intuitive applications
+- Enhancing security protocols to protect what matters most – your data and users
+- Deepening expertise in DevOps practices for seamless delivery
 
-### 🤝 Collaboration Interests
-- Innovative software projects with real-world impact
-- Open-source contributions and community development
-- Tech innovations in AI/ML integration and cloud computing
-- Cross-functional teams focused on scalable solutions
+### 🤝 Partnership Philosophy
+I thrive on collaborations where:
+- Innovation meets purpose
+- Technology serves humanity
+- We build solutions that make a difference
+- Every challenge becomes an opportunity for growth
 
-### 💡 Professional Philosophy
-- Advocate for clean, maintainable code and scalable system design
-- Believer in continuous learning and knowledge sharing
-- Focus on creating solutions that solve genuine business challenges
-- Committed to security-first development practices
-
-### 🎯 Career Objectives
-- Architect and deliver impactful, enterprise-grade solutions
-- Bridge the gap between complex technical requirements and business value
-- Mentor emerging developers and contribute to tech community growth
-- Drive innovation through cutting-edge technology implementation
+### 💡 My Promise
+When you work with me, you get more than a developer – you get a **strategic partner** who:
+- Listens deeply to understand your vision
+- Communicates clearly throughout the journey
+- Delivers excellence with integrity
+- Cares about your success as much as you do
 
 ---
 
-*"Transforming complex challenges into elegant technical solutions"*
+## 🚀 Let's Create Magic Together
 
-## <div>  Visit My <a href="https://martin-navy.vercel.app/"> PORTFOLIO </a> </div>
-## <div>  Visit My <a href="https://devvoxa.vercel.app/"> PERSONAL BRAND </a> </div>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🎨_View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://martin-navy.vercel.app/)
+[![Personal Brand](https://img.shields.io/badge/🌟_My_Brand_Story-0077B5?style=for-the-badge&logo=storybook&logoColor=white)](https://devvoxa.vercel.app/)
+
+</div>
+
+---
+
+## 📞 Let's Start a Conversation
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/💬_Let's_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/kus9ba)
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omondo94@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://martin-navy.vercel.app/)
+
+</div>
+
+*"The best collaborations start with a simple conversation. Let's discuss how we can bring your vision to life."*
 
 ---
 
- ## 📫 Connect With Me 🌐:
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/kus9ba)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omondo94@gmail.com)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin omondo) -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/martin_mosoti) -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://martin-navy.vercel.app/)
-
----
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=12F12D&background=000000FA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Architect;Building+Scalable+Applications;Problem+Solver+Extraordinaire)](https://git.io/typing-svg)
 
+</div>
+
 ---
 
-## 💻 Tech Stack:
+## 💻 My Digital Toolbox
 
 ### Frontend & Mobile
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -90,11 +125,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-<!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-<!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) -->
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -113,20 +145,10 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-### Other Technologies
-<!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
-<!-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-## ⚙️ DevOps & Deployment Tools
+### Infrastructure & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-<!-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -136,60 +158,79 @@
 
 ---
 
-### ☕ Support My Work
-
-If you appreciate my work and want to support my next project:
-
-<p align="center">
-  <a href="https://buymeacoffee.com/superomosh" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-## ✨ GitHub Stats
+## ☕ Support the Journey
 
 <div align="center">
 
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=superomosh94&show_icons=true&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/superomosh94)
+If my work inspires you and you'd like to support my mission to create meaningful digital experiences:
 
-## ⚡ Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=superomosh94&theme=radical&background=0D1117&ring=3b82f6&fire=60A5FA&stroke=1f2937&hide_border=true)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Support_My_Journey-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/superomosh)
 
-## 🛠️ Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superomosh94&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="300" />
+</div>
+
+*Every coffee fuels another line of code, another innovation, another dream brought to life.*
+
+---
+
+## 📊 My Coding Journey
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=superomosh94&show_icons=true&title_color=58A6FF&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/superomosh94) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superomosh94&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/superomosh94) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=superomosh94&theme=radical&background=0D1117&hide_border=true)](https://git.io/streak-stats) | [![Trophies](https://github-profile-trophy.vercel.app/?username=superomosh94&theme=radical&no-bg=true&no-frame=true&row=2&column=4)](https://github.com/superomosh94) |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=superomosh94&theme=radical&no-bg=true&no-frame=true&row=2&column=4" />
-</p>
+## 📈 Building Every Day
+
+<div align="center">
+
+[![Martin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=superomosh94&theme=react-dark&hide_border=true&area=true&custom_title=Martin's%20Development%20Journey)](https://github.com/superomosh94)
+
+</div>
 
 ---
 
-## 🧠 Random Quote
+## 🧠 Daily Inspiration
+
+<div align="center">
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 📈 GitHub Activity Graph
-[![Martin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=superomosh94&theme=react-dark&hide_border=true&area=true)](https://github.com/superomosh94)
+</div>
 
 ---
 
-## 📊 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endisuwandii/endisuwandii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endisuwandii/endisuwandii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/endisuwandii/endisuwandii/output/pacman-contribution-graph.svg">
-</picture>
+## 📊 Commitment in Code
+
+<div align="center">
+
+### 🎯 My Development Activity
+
+To view my real-time contribution graph and coding activity, please visit my GitHub profile directly:
+
+[![View Full GitHub Profile](https://img.shields.io/badge/📊_View_Full_Activity-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/superomosh94)
+
+*Note: For the most accurate and up-to-date contribution visualization, GitHub's native activity graph provides the best experience.*
+
+</div>
 
 ---
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+
+## 🌟 Let's Build Something Extraordinary Together
+
+**Your vision + My expertise = Magic waiting to happen**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
+
+---
+
+*"Great software isn't just about code – it's about understanding dreams and building bridges to make them real."*
