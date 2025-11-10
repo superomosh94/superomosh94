@@ -164,7 +164,7 @@ When you work with me, you get more than a developer – you get a **strategic p
 
 If my work inspires you and you'd like to support my mission to create meaningful digital experiences:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Support_My_Journey-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/superomosh)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Support_My_Journey-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://martin-coffee-paystack.vercel.app/)
 
 </div>
 
